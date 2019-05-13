@@ -1,0 +1,11 @@
+INSERT INTO Products(ProductName, DepartmentName, Price, StockQuantity)
+VALUES ("Non-Fiction", "Books", 29.99, 400);
+
+INSERT INTO Products(ProductName, DepartmentName, Price, StockQuantity)
+Values ("Ipod", "Electronics", 239.99, 200);
+
+INSERT INTO Products(ProductName,DepartmentName,Price,StockQuantity)
+VALUES ("Thin Mint Cookies", "foods", 5.00, 600);
+
+INSERT INTO Products(ProductName,DepartmentName,Price,StockQuantity)
+VALUES ("Blue Moon Wheat Beer", "Alcohol", 12.99, 300);
